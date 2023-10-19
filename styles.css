@@ -1,3 +1,11 @@
 p {
-    color: red;
+    color: rgb(172, 70, 255);
+    text-align: center;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 20px;
+    color: rgb(25, 6, 41);
 }
