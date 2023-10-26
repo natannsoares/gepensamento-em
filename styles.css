@@ -4,15 +4,10 @@ p {
     color: #040D12;
 }
 
-h1 {
-    text-align: center;
-    font-size: 25px;
-    color: #183D3D;
-}
-
 #titulo {
     font-size: 30px;
     text-align: center;
+    color: #183D3D;
 }
 
 .texto {
