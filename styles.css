@@ -9,3 +9,14 @@ h1 {
     font-size: 25px;
     color: rgb(52, 3, 92);
 }
+
+#titulo {
+    font-size: 30px;
+    text-align: center;
+}
+
+.texto {
+    text-align: justify;
+    font-size: 20px;
+    color: green;
+}
