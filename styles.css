@@ -20,3 +20,7 @@ body {
     background-color: #93B1A6;
     color: #040D12;
 }
+
+.secao{
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+}
